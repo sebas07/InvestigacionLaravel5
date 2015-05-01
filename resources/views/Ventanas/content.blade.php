@@ -50,7 +50,7 @@ table, tr, td, th {
     text-align: left;
     border: 1px solid;
     border-collapse: collapse;
-    border-color: #DCDCDC;
+    border-color: #FFFFFF;
 }
 #tableTitle {
     color: #4682B4;
@@ -70,10 +70,10 @@ table, tr, td, th {
     padding: 7px 10px 7px 10px;
 }
 table#contenidos tr:nth-child(even) {
-    background-color: #F5F5DC;
+    background-color: #d9edf7;
 }
 table#contenidos tr:nth-child(odd) {
-    background-color: #F5F5F5;
+    background-color: #DCDCDC;
 }
 .right{
     float:right;
